@@ -1,0 +1,142 @@
+[
+  {
+    "nombre": "Lucas",
+    "apellido": "Martínez",
+    "email": "lucas.martinez@email.com",
+    "telefono": "+54 9 11 2345-6789",
+    "dni": "30123456"
+  },
+  {
+    "nombre": "Camila",
+    "apellido": "Gómez",
+    "email": "camila.gomez@email.com",
+    "telefono": "+54 9 11 9876-5432",
+    "dni": "32123456"
+  },
+  {
+    "nombre": "Santiago",
+    "apellido": "Pérez",
+    "email": "santiago.perez@email.com",
+    "telefono": "+54 9 11 1122-3344",
+    "dni": "29123456"
+  },
+  {
+    "nombre": "Valentina",
+    "apellido": "Fernández",
+    "email": "valentina.fernandez@email.com",
+    "telefono": "+54 9 11 4433-2211",
+    "dni": "31111222"
+  },
+  {
+    "nombre": "Mateo",
+    "apellido": "López",
+    "email": "mateo.lopez@email.com",
+    "telefono": "+54 9 11 5566-7788",
+    "dni": "30111111"
+  },
+  {
+    "nombre": "Martina",
+    "apellido": "Rodríguez",
+    "email": "martina.rodriguez@email.com",
+    "telefono": "+54 9 11 6677-8899",
+    "dni": "31123456"
+  },
+  {
+    "nombre": "Julián",
+    "apellido": "García",
+    "email": "julian.garcia@email.com",
+    "telefono": "+54 9 11 9988-7766",
+    "dni": "27123456"
+  },
+  {
+    "nombre": "Agustina",
+    "apellido": "Sosa",
+    "email": "agustina.sosa@email.com",
+    "telefono": "+54 9 11 3344-5566",
+    "dni": "32111222"
+  },
+  {
+    "nombre": "Benjamín",
+    "apellido": "Díaz",
+    "email": "benjamin.diaz@email.com",
+    "telefono": "+54 9 11 4455-6677",
+    "dni": "30122334"
+  },
+  {
+    "nombre": "Catalina",
+    "apellido": "Ruiz",
+    "email": "catalina.ruiz@email.com",
+    "telefono": "+54 9 11 7766-5544",
+    "dni": "29123411"
+  },
+  {
+    "nombre": "Thiago",
+    "apellido": "Torres",
+    "email": "thiago.torres@email.com",
+    "telefono": "+54 9 11 6655-4433",
+    "dni": "31111444"
+  },
+  {
+    "nombre": "Lola",
+    "apellido": "Ramírez",
+    "email": "lola.ramirez@email.com",
+    "telefono": "+54 9 11 2233-4455",
+    "dni": "32111333"
+  },
+  {
+    "nombre": "Facundo",
+    "apellido": "Flores",
+    "email": "facundo.flores@email.com",
+    "telefono": "+54 9 11 7788-8899",
+    "dni": "29122345"
+  },
+  {
+    "nombre": "Emilia",
+    "apellido": "Acosta",
+    "email": "emilia.acosta@email.com",
+    "telefono": "+54 9 11 6655-1122",
+    "dni": "30123478"
+  },
+  {
+    "nombre": "Tomás",
+    "apellido": "Molina",
+    "email": "tomas.molina@email.com",
+    "telefono": "+54 9 11 5566-3344",
+    "dni": "27119999"
+  },
+  {
+    "nombre": "Josefina",
+    "apellido": "Ortiz",
+    "email": "josefina.ortiz@email.com",
+    "telefono": "+54 9 11 8899-7766",
+    "dni": "32128888"
+  },
+  {
+    "nombre": "Bruno",
+    "apellido": "Medina",
+    "email": "bruno.medina@email.com",
+    "telefono": "+54 9 11 4411-2233",
+    "dni": "31129999"
+  },
+  {
+    "nombre": "Renata",
+    "apellido": "Rojas",
+    "email": "renata.rojas@email.com",
+    "telefono": "+54 9 11 9988-1234",
+    "dni": "30121111"
+  },
+  {
+    "nombre": "Simón",
+    "apellido": "Castro",
+    "email": "simon.castro@email.com",
+    "telefono": "+54 9 11 3344-6677",
+    "dni": "29125555"
+  },
+  {
+    "nombre": "Olivia",
+    "apellido": "Silva",
+    "email": "olivia.silva@email.com",
+    "telefono": "+54 9 11 7788-2233",
+    "dni": "31123333"
+  }
+]
