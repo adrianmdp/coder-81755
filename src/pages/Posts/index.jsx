@@ -1,6 +1,6 @@
 import { useState, useEffect } from "react";
 
-const Users = () => {
+const Posts = () => {
 
     // Necesitamos 2 estados de posts, uno que se mantenga con los datos originales
     // y otro que lo usamos para mostrar en pantalla con o sin filtro (postsToShow)
@@ -63,17 +63,10 @@ const Users = () => {
         setPostsToShow(filteredPosts);
     };
 
-    // && se tienen que cumplir todas las condiciones
-    // || se tiene que cumplir al menos una condicion
-
-    // if(cond1 && cond2 && cond3 && cond4)
-
-    // if(cond1 || cond2 || cond3 || cond4)
-
     return (
 
         <>
-            <h1>Pagina de usuarios</h1>
+            <h1>Pagina de posts</h1>
 
             <form action="">
                 <label htmlFor="search">Buscar</label>
@@ -81,7 +74,7 @@ const Users = () => {
                 <span>Mostrando: {postsToShow.length} posts</span>
             </form>
 
-            {postsToShow.map(post => {
+            {postsToShow && postsToShow.map(post => {
                 return (
                     <article key={post.title + post.id}>
                         <div>
@@ -119,4 +112,4 @@ const Users = () => {
 
 }
 
-export default Users
+export default Posts

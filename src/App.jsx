@@ -5,7 +5,12 @@ import Counter from "./components/Counter";
 import TextField from "./components/TextField";
 import UseEffectExample from "./components/UseEffectExample";
 import MapExample from "./components/MapExample";
-import Users from "./pages/Users";
+import Posts from "./pages/Posts";
+import Home from "./pages/Home";
+import Contact from "./pages/Contact";
+import Comments from "./pages/Comments";
+
+import { BrowserRouter, Routes, Route } from 'react-router-dom'
 
 function App() {
 
@@ -44,7 +49,15 @@ function App() {
 
       {/* <MapExample /> */}
 
-      <Users />
+      <BrowserRouter>
+        <Routes>
+          <Route path="/" element={<Home />} />
+          <Route path="/posts" element={<Posts />} />
+          <Route path="/contact" element={<Contact />} />
+          <Route path="/posts/:postId/comments" element={<Comments />} />
+        </Routes>
+      </BrowserRouter>
+
 
     </div>
   );
